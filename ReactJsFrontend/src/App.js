@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+
 import Main from './Components/Main';
 import Result from './Components/Result';
 import {
