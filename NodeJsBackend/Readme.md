@@ -1,5 +1,8 @@
 # use npm install to install dependencies and run the index.js file
 
+
+## Note - I entered 0,1 as first two entries when I created table, rest calculated using fibonacci function
+
 ## Code Information
 The main entry point is index.js file where app will listen on port 8000
 Comments are added for explaining a step or why certain step was done 

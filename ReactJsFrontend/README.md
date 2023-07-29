@@ -9,7 +9,6 @@ I have created a simple frontend which takes user input and gives 1st n fibonacc
 Starting point is Index.js. React Router Dom is used for routing and I refered to official documentation of react router dom to implement it.
 https://reactrouter.com/en/main/start/tutorial
 
-## Note - I entered 0,1 as first two entries when I created table, rest calculated using fibonacci function
 
 App.js files has defined routes with default route as Main.js
 When user will enter N, he/she will be redirected to getResult endpoint where we will get result from Db
