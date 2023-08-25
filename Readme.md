@@ -1,4 +1,4 @@
-# Thank you for giving this wonderful opportunity to showcase my skill. It would be great If I receive your valuable feedback, how can I improve , what else could I have done in the task.
+
 
 # Info about Application
 ## Please note that readme files are there in frontend and backend with proper explanation
